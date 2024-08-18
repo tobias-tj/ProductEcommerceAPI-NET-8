@@ -1,0 +1,17 @@
+C:\Users\tjara\source\repos\DemoEcommerceProductAPISolution\ProductAPIApplication\bin\Debug\net8.0\ProductAPIApplication.deps.json
+C:\Users\tjara\source\repos\DemoEcommerceProductAPISolution\ProductAPIApplication\bin\Debug\net8.0\ProductAPIApplication.dll
+C:\Users\tjara\source\repos\DemoEcommerceProductAPISolution\ProductAPIApplication\bin\Debug\net8.0\ProductAPIApplication.pdb
+C:\Users\tjara\source\repos\DemoEcommerceProductAPISolution\ProductAPIApplication\bin\Debug\net8.0\ecommerceSharedLibrary.dll
+C:\Users\tjara\source\repos\DemoEcommerceProductAPISolution\ProductAPIApplication\bin\Debug\net8.0\ProductAPIDomain.dll
+C:\Users\tjara\source\repos\DemoEcommerceProductAPISolution\ProductAPIApplication\bin\Debug\net8.0\ecommerceSharedLibrary.pdb
+C:\Users\tjara\source\repos\DemoEcommerceProductAPISolution\ProductAPIApplication\bin\Debug\net8.0\ProductAPIDomain.pdb
+C:\Users\tjara\source\repos\DemoEcommerceProductAPISolution\ProductAPIApplication\obj\Debug\net8.0\ProductAPIApplication.csproj.AssemblyReference.cache
+C:\Users\tjara\source\repos\DemoEcommerceProductAPISolution\ProductAPIApplication\obj\Debug\net8.0\ProductAPIApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjara\source\repos\DemoEcommerceProductAPISolution\ProductAPIApplication\obj\Debug\net8.0\ProductAPIApplication.AssemblyInfoInputs.cache
+C:\Users\tjara\source\repos\DemoEcommerceProductAPISolution\ProductAPIApplication\obj\Debug\net8.0\ProductAPIApplication.AssemblyInfo.cs
+C:\Users\tjara\source\repos\DemoEcommerceProductAPISolution\ProductAPIApplication\obj\Debug\net8.0\ProductAPIApplication.csproj.CoreCompileInputs.cache
+C:\Users\tjara\source\repos\DemoEcommerceProductAPISolution\ProductAPIApplication\obj\Debug\net8.0\ProductA.1A38F9DF.Up2Date
+C:\Users\tjara\source\repos\DemoEcommerceProductAPISolution\ProductAPIApplication\obj\Debug\net8.0\ProductAPIApplication.dll
+C:\Users\tjara\source\repos\DemoEcommerceProductAPISolution\ProductAPIApplication\obj\Debug\net8.0\refint\ProductAPIApplication.dll
+C:\Users\tjara\source\repos\DemoEcommerceProductAPISolution\ProductAPIApplication\obj\Debug\net8.0\ProductAPIApplication.pdb
+C:\Users\tjara\source\repos\DemoEcommerceProductAPISolution\ProductAPIApplication\obj\Debug\net8.0\ref\ProductAPIApplication.dll

@@ -1,0 +1,11 @@
+C:\Users\tjara\source\repos\DemoEcommerceProductAPISolution\ProductAPIDomain\bin\Debug\net8.0\ProductAPIDomain.deps.json
+C:\Users\tjara\source\repos\DemoEcommerceProductAPISolution\ProductAPIDomain\bin\Debug\net8.0\ProductAPIDomain.dll
+C:\Users\tjara\source\repos\DemoEcommerceProductAPISolution\ProductAPIDomain\bin\Debug\net8.0\ProductAPIDomain.pdb
+C:\Users\tjara\source\repos\DemoEcommerceProductAPISolution\ProductAPIDomain\obj\Debug\net8.0\ProductAPIDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjara\source\repos\DemoEcommerceProductAPISolution\ProductAPIDomain\obj\Debug\net8.0\ProductAPIDomain.AssemblyInfoInputs.cache
+C:\Users\tjara\source\repos\DemoEcommerceProductAPISolution\ProductAPIDomain\obj\Debug\net8.0\ProductAPIDomain.AssemblyInfo.cs
+C:\Users\tjara\source\repos\DemoEcommerceProductAPISolution\ProductAPIDomain\obj\Debug\net8.0\ProductAPIDomain.csproj.CoreCompileInputs.cache
+C:\Users\tjara\source\repos\DemoEcommerceProductAPISolution\ProductAPIDomain\obj\Debug\net8.0\ProductAPIDomain.dll
+C:\Users\tjara\source\repos\DemoEcommerceProductAPISolution\ProductAPIDomain\obj\Debug\net8.0\refint\ProductAPIDomain.dll
+C:\Users\tjara\source\repos\DemoEcommerceProductAPISolution\ProductAPIDomain\obj\Debug\net8.0\ProductAPIDomain.pdb
+C:\Users\tjara\source\repos\DemoEcommerceProductAPISolution\ProductAPIDomain\obj\Debug\net8.0\ref\ProductAPIDomain.dll
